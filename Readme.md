@@ -1,4 +1,4 @@
-The project aimed to build a comprehensive data engineering pipeline to ingest, process, and analyze COVID-19 data from the European Centre for Disease Prevention and Control (ECDC) and other relevant sources. The solution leveraged various Azure services, including Data Factory, Data Lake Storage Gen2, Azure Databricks, and Power BI.
+The project aimed to build a comprehensive data engineering pipeline to ingest, process, and analyze COVID-19 data from the European Centre for Disease Prevention and Control (ECDC) and other relevant sources. The solution leveraged various Azure services,Azure HDInsight including Data Factory, Data Lake Storage Gen2, Azure Databricks, and Power BI.
 
 **Data Ingestion**:
 - Multiple COVID-19 datasets were ingested from the ECDC website and Azure Blob Storage into Azure Data Lake Storage Gen2 using Azure Data Factory (ADF) pipelines.
